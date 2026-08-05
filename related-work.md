@@ -19,7 +19,7 @@ Its relationship to the proposed PhD is methodological. It supports the multi-po
 - the unequal circulation of authority and knowledge; and
 - democratic transposition of configurational knowledge.
 
-[View Democratic Configurational Intelligence](LINK-TO-DCI-REPOSITORY-OR-PAPER)
+[View Democratic Configurational Intelligence](https://github.com/mongoosechen/democratic-configurational-intelligence-DCI)
 
 ## Protocol of Right-Leveling
 
