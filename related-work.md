@@ -37,7 +37,7 @@ Its relationship to the proposed PhD is diagnostic. It supports questions such a
 
 The Protocol of Right-Leveling is developed separately and is not an additional method to be validated within the jurisdictional-recession PhD.
 
-[View the Protocol of Right-Leveling](LINK-TO-PRL-REPOSITORY)
+[View the Protocol of Right-Leveling](https://github.com/mongoosechen/Protocol-of-Right-Leveling-PRL-)
 
 ## Other developing research
 
